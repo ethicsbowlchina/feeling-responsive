@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png
+  image_fullwidth: https://s1.ax1x.com/2020/06/10/t7Jqeg.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
