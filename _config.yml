@@ -38,7 +38,7 @@ improve_content: https://github.com/ethicsbowlchina/feeling-responsive/edit/gh-p
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/ethicsbowlchina/feeling-responsive/tree/gh-pages/images/'
+urlimg: 'https://github.com/ethicsbowlchina/feeling-responsive/tree/gh-pages/images'
 
 
 # Logo size is 600x80 pixels
